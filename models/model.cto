@@ -27,7 +27,6 @@ participant User identified by userID {
   o Integer balance
 }
 
-
 /************** ASSETS ******************/
 asset Property identified by PID {
   o String PID
@@ -43,7 +42,6 @@ asset PropertyListing identified by PlistID {
   o String PlistID
   --> Property property
 }
-
 
 /************** TRANSACTIONS ******************/
 transaction createProperty {
