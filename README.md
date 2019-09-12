@@ -6,10 +6,15 @@ This composer assignment contains following participant, Assets & Transactions:
 Participant : User
 
 Asstes: 
-Property Registry
-PropertyListing Registry
+
+> Property Registry
+
+> PropertyListing Registry
 
 Transactions:
-createProperty
-intentForSale
-purchaseProperty
+
+> createProperty
+
+> intentForSale
+
+> purchaseProperty
